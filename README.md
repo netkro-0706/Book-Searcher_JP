@@ -18,9 +18,9 @@ API - [Kakao Developers -> search-book](https://developers.kakao.com/docs/latest
 ## 機能기능
 + メディアクエリーを利用し画面の大きさに合わせてUIが変わるよう反応方WEBを具現  
   PC  
-  ![main](https://user-images.githubusercontent.com/74494210/167297159-79021dbc-5747-446f-be45-ea2550073f99.png) 
+  ![main](https://user-images.githubusercontent.com/74494210/167297483-bd56d4db-58d1-4947-b981-9532c7a5c289.png)
   Phone  
-  ![main2](https://user-images.githubusercontent.com/74494210/167297334-e8bcb545-62bd-40d2-a96d-4c9bc402cce0.png)
+  ![main2](https://user-images.githubusercontent.com/74494210/167297484-209eae7d-db20-4aae-9ebc-d7cb055ecd1d.png)
 
 ```css
 @media (max-width: 768px) {
