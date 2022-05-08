@@ -1,13 +1,13 @@
-# 책 검색 웹사이트 Book-Searcher
+# 本検索ページ Book-Searcher
 ![bookSearcher main](https://user-images.githubusercontent.com/74494210/162439119-087b9210-9dd9-48ef-b21c-6b9bfb904da3.png)
 
 Demo : https://netkro-0706.github.io/Book-Searcher/
 
-## 개발목표  
-원하는 책을 찾을 수 있는 웹사이트를 개발  
-API와 pagination을 이해하여 그 기술을 이용한 웹사이트 구축
+## 開発目標  
+探したい本を探せるWEBを開発  
+APIとpaginationを理解しその技術を利用したWEBを構築
 
-## 사용기술
+## 使用技術
 HTML  
 CSS  
 Javascript  
@@ -15,8 +15,8 @@ Bootstrap
 Font Awesome  
 API - [Kakao Developers -> search-book](https://developers.kakao.com/docs/latest/ko/daum-search/dev-guide#search-book)
 
-## 기능
-+ 미디어 쿼리를 이용하여 화면 크기별로 UI가 변하여 보이도록 반응형 웹페이지를 구현  
+## 機能기능
++ メディアクエリーを利用し画面の大きさに合わせてUIが変わるよう反応方WEBを具現  
   PC  
   ![bookSearcher main_sizing](https://user-images.githubusercontent.com/74494210/162488628-2e47c692-0c0d-4001-b573-68df4b3f90c7.png)  
   Tablet  
@@ -63,7 +63,7 @@ API - [Kakao Developers -> search-book](https://developers.kakao.com/docs/latest
   }
   ...
 ```
-+ API의 목록을 페이지 별로 보여지도록 Pagination 구현  
++ APIの目録をページ別に見えるようにPagination具現  
   ![pagination](https://user-images.githubusercontent.com/74494210/162561173-5d24f6bf-eefa-4c37-8cf7-a2b494088231.png)
 
 ```javascript
@@ -103,7 +103,7 @@ API - [Kakao Developers -> search-book](https://developers.kakao.com/docs/latest
       `;
 ```
 
-## 개선사항
-API문제로 페이지의 최대값이 현재페이지의 위치에 따라 변동되는 문제가 발생중 -> 실시간으로 변동되는 최대페이지 값에 유연하게 맞출 수 있는 대응이 필요  
- ex)현재페이지 기준으로 5개 페이지 구현시 마지막에 중복된 페이지가 연달아 표시됨
-<br/><br/>API와 받은 meta값을 좀 더 분석 및 조합하여 필터에 가격내림차순, 가격오름차순, 판매상태순의 구현이 필요
+## 改選項目
+APIの問題でページの最大値が現在ページの位置によって変わる問題が発生中->実時間に変化する最大値に悠然合わせる対応が必要
+ ex)現在ページの基準で5のページ具現時最後に中腹するページが続いて表示される
+<br/><br/>APIと受けたmeta値をもっと分析、総合してフィルターに価格順、販売状態準などの具現が必要
