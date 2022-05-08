@@ -18,11 +18,9 @@ API - [Kakao Developers -> search-book](https://developers.kakao.com/docs/latest
 ## 機能기능
 + メディアクエリーを利用し画面の大きさに合わせてUIが変わるよう反応方WEBを具現  
   PC  
-  ![bookSearcher main_sizing](https://user-images.githubusercontent.com/74494210/162488628-2e47c692-0c0d-4001-b573-68df4b3f90c7.png)  
-  Tablet  
-  ![bookSearcher tabsizing](https://user-images.githubusercontent.com/74494210/162489043-b3f301b6-d358-41c0-9d25-db9513a53e85.png)  
+  ![main](https://user-images.githubusercontent.com/74494210/167297159-79021dbc-5747-446f-be45-ea2550073f99.png) 
   Phone  
-  ![bookSearcher phonesizing](https://user-images.githubusercontent.com/74494210/162489060-2296ace4-a138-4746-9ea7-dd18b932cd23.png)  
+  ![main2](https://user-images.githubusercontent.com/74494210/167297334-e8bcb545-62bd-40d2-a96d-4c9bc402cce0.png)
 
 ```css
 @media (max-width: 768px) {
