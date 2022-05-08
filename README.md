@@ -1,7 +1,7 @@
 # 本検索ページ Book-Searcher
-![bookSearcher main](https://user-images.githubusercontent.com/74494210/162439119-087b9210-9dd9-48ef-b21c-6b9bfb904da3.png)
+![main](https://user-images.githubusercontent.com/74494210/167297159-79021dbc-5747-446f-be45-ea2550073f99.png)
 
-Demo : https://netkro-0706.github.io/Book-Searcher/
+Demo : https://netkro-0706.github.io/Book-Searcher_JP/
 
 ## 開発目標  
 探したい本を探せるWEBを開発  
