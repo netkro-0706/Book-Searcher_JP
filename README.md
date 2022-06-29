@@ -15,7 +15,7 @@ Bootstrap
 Font Awesome  
 API - [Kakao Developers -> search-book](https://developers.kakao.com/docs/latest/ko/daum-search/dev-guide#search-book)
 
-## 機能기능
+## 機能
 + メディアクエリーを利用し画面の大きさに合わせてUIが変わるよう反応方WEBを具現  
   PC 
   ![main](https://user-images.githubusercontent.com/74494210/167297570-56b920c1-8a85-4c04-b740-bda39a2bc924.png)
